@@ -11,3 +11,7 @@ Reason I pick qiskit is
 
 In this field, there still vast sea from theorerist views to programmer views, no matter how much you interest in 
 quantum computing, just think of this as **Intro** or **Recap** book, as I named it "Al-Muqaddimah" which mean "introduction".
+
+Thanpisit "Ishaq" Naowapradit,
+
+Chulalongkorn University
